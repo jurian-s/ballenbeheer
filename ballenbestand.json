@@ -1,0 +1,2991 @@
+{
+    "LocatieDict": {
+        "0": "Ballentas",
+        "1": "X",
+        "2": "TOPdeskhal"
+    },
+    "BalTypeDict": {
+        "0": {
+            "Balsoort": "MVA 300",
+            "Afschrijving": [
+                43.95,
+                35,
+                25,
+                10,
+                0
+            ]
+        },
+        "1": {
+            "Balsoort": "MVP 200X",
+            "Afschrijving": [
+                43.95,
+                35,
+                25,
+                10,
+                0
+            ]
+        },
+        "2": {
+            "Balsoort": "MVA 310",
+            "Afschrijving": [
+                43.95,
+                35,
+                25,
+                10,
+                0
+            ]
+        },
+        "3": {
+            "Balsoort": "MVP 2001",
+            "Afschrijving": [
+                43.95,
+                35,
+                25,
+                10,
+                0
+            ]
+        },
+        "5": {
+            "Balsoort": "V300W",
+            "Afschrijving": [
+                50,
+                40,
+                30,
+                20,
+                10,
+                0
+            ]
+        },
+        "6": {
+            "Balsoort": "V200W",
+            "Afschrijving": [
+                50,
+                40,
+                30,
+                20,
+                10,
+                0
+            ]
+        }
+    },
+    "Balvoorraad": {
+        "18087": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "0606": {
+            "Soort": 1,
+            "Jaar": 2006,
+            "Locatie": 0
+        },
+        "0703": {
+            "Soort": 1,
+            "Jaar": 2007,
+            "Locatie": 0
+        },
+        "0915": {
+            "Soort": 0,
+            "Jaar": 2009,
+            "Locatie": 1
+        },
+        "1228": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1407": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "14128": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1546": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1203": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1419": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1516": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1519": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1527": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1310": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1426": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1509": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1517": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1612": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1309": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1417": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1512": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1611": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1614": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1230": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1306": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1408": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1526": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1601": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "18024": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "1004": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1207": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1305": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1410": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "14140": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "18089": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "1007": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1008": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1213": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1422": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1607": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1005": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1201": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1316": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1319": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1401": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1553": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1221": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1313": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1416": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1533": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1534": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1204": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1205": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1303": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1403": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1503": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1504": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1427": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1510": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1522": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1523": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1602": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1311": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "14147": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1425": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1508": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1515": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1202": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1429": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1451": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1506": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1536": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "18022": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "1315": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "14129": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "14130": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1528": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1406": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1507": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1514": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1608": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1229": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1404": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1529": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1530": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1622": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1623": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "18090": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "1409": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1411": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1490": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1502": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1613": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1901": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 0
+        },
+        "18091": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "0019": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 0
+        },
+        "0605": {
+            "Soort": 1,
+            "Jaar": 2006,
+            "Locatie": 0
+        },
+        "1210": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1418": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1520": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1532": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1609": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1610": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1624": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "18088": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "0903": {
+            "Soort": 0,
+            "Jaar": 2009,
+            "Locatie": 0
+        },
+        "1014": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1317": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1491": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1492": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "18021": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "1233": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1547": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1549": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1550": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1551": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1209": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1414": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1415": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1424": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "15001": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1010": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1011": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1220": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1318": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1421": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1537": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1225": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1314": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1402": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1441": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1482": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1009": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1212": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 0
+        },
+        "1307": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1413": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1521": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "18023": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 0
+        },
+        "1412": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1505": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1513": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1603": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 0
+        },
+        "1012": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "1320": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 0
+        },
+        "1423": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1511": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1535": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "0905": {
+            "Soort": 0,
+            "Jaar": 2009,
+            "Locatie": 0
+        },
+        "1487": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "18001": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0032": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1222": {
+            "Soort": 2,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1481": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1811": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "0090": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1470": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1435": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1615": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "0030": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1449": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1621": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "14136": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1485": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "0027": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1445": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "18004": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "14146": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1494": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1554": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "18005": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "14137": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14139": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1813": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "14131": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1555": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14107": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14145": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "0404": {
+            "Soort": 3,
+            "Jaar": 2004,
+            "Locatie": 1
+        },
+        "1538": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1618": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "18002": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "14106": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14133": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1499": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1473": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1809": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "1466": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1484": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "0038": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1006": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 1
+        },
+        "18003": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0025": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "0034": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1617": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "0510": {
+            "Soort": 1,
+            "Jaar": 2005,
+            "Locatie": 2
+        },
+        "1438": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "1707": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 2
+        },
+        "1460": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1539": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1616": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 2
+        },
+        "1806": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "1489": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1540": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1556": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "18006": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "1541": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1709": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 2
+        },
+        "18009": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0048": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1454": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1436": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "14148": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1444": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1701": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 1
+        },
+        "18011": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "1450": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1483": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1702": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 1
+        },
+        "1710": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 2
+        },
+        "18010": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0042": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1543": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14142": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1457": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1619": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "0049": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "14143": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14105": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14144": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1620": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "14101": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14138": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1432": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "18007": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "14102": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14122": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "18012": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "1497": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1474": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1808": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "0043": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1467": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1805": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "1301": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 2
+        },
+        "1461": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1472": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "18008": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "1802": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "0044": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1452": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1803": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "0045": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1227": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 1
+        },
+        "1442": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1557": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "0041": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1477": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1708": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 2
+        },
+        "0062": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "18013": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "1443": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1704": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 1
+        },
+        "18019": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0056": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1463": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "18020": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0092": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1448": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "0402": {
+            "Soort": 3,
+            "Jaar": 2004,
+            "Locatie": 1
+        },
+        "1455": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1465": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1542": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1468": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1815": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "0067": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1431": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "14111": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14117": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14109": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14126": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14100": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14113": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1558": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14110": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "14120": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "0058": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "0069": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1703": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 1
+        },
+        "18014": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "14108": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1496": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "14115": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1604": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "18015": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "1812": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "1434": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1459": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "18016": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "14114": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "18017": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "1804": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "00171": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "0091": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1447": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1437": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "0020": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "0059": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1458": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "18018": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0036": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1464": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "0084": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "0088": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1486": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "0083": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1433": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "0614": {
+            "Soort": 1,
+            "Jaar": 2006,
+            "Locatie": 1
+        },
+        "1446": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1705": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 1
+        },
+        "1810": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "14119": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1469": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1605": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "0076": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "1430": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1440": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1478": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "0080": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "1480": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "14103": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14116": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "0082": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 2
+        },
+        "14125": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1495": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "14127": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1493": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1706": {
+            "Soort": 0,
+            "Jaar": 2017,
+            "Locatie": 1
+        },
+        "1814": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "14104": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "14118": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "0075": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "0603": {
+            "Soort": 1,
+            "Jaar": 2006,
+            "Locatie": 1
+        },
+        "1475": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1560": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1801": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "14124": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1544": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 1
+        },
+        "1471": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "0610": {
+            "Soort": 1,
+            "Jaar": 2006,
+            "Locatie": 2
+        },
+        "0616": {
+            "Soort": 1,
+            "Jaar": 2006,
+            "Locatie": 2
+        },
+        "1462": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "1439": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 2
+        },
+        "0074": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "0601": {
+            "Soort": 1,
+            "Jaar": 2006,
+            "Locatie": 1
+        },
+        "0912": {
+            "Soort": 0,
+            "Jaar": 2009,
+            "Locatie": 1
+        },
+        "1807": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "0073": {
+            "Soort": 0,
+            "Jaar": 0,
+            "Locatie": 1
+        },
+        "0701": {
+            "Soort": 1,
+            "Jaar": 2007,
+            "Locatie": 2
+        },
+        "1479": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 1
+        },
+        "1545": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1606": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 2
+        },
+        "18033": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "18034": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18035": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18036": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18037": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18038": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18039": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18040": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18041": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18042": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18025": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18043": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18026": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18027": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18028": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18029": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18030": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18031": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18032": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18044": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18053": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18054": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18055": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18056": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18057": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18058": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18059": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18060": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18061": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18062": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18045": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18063": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18046": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18047": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18048": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18049": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18050": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18051": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18052": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18067": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18076": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18077": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18078": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18079": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18080": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18081": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18082": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18083": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18084": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18085": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18068": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18086": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18069": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18070": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18071": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18072": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18073": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "1902": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1903": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1904": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1905": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1906": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1908": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1907": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1909": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 2
+        },
+        "1910": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 2
+        },
+        "1911": {
+            "Soort": 0,
+            "Jaar": 2019,
+            "Locatie": 2
+        },
+        "1912": {
+            "Soort": 5,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1913": {
+            "Soort": 5,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1914": {
+            "Soort": 5,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "1915": {
+            "Soort": 5,
+            "Jaar": 2019,
+            "Locatie": 1
+        },
+        "18074": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18075": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "20001": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "20005": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "20002": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "20003": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "20004": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW22": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW29": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW08": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW16": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW17": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW09": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW18": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW19": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW24": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW25": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW07": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW28": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW11": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW01": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW02": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW20": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW30": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW14": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW23": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW12": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW26": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW21": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW27": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW05": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW06": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW10": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW15": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW03": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW04": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "DSW13": {
+            "Soort": 5,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "1223": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "14135": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "0018": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 2
+        },
+        "1214": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "14134": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1531": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "13071": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 2
+        },
+        "1013": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 2
+        },
+        "1217": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1002": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 2
+        },
+        "1548": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "1216": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1524": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1525": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1232": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1003": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 2
+        },
+        "1219": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 1
+        },
+        "1518": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 2
+        },
+        "1208": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1215": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1312": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 2
+        },
+        "1218": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1224": {
+            "Soort": 0,
+            "Jaar": 2012,
+            "Locatie": 2
+        },
+        "1552": {
+            "Soort": 0,
+            "Jaar": 2015,
+            "Locatie": 0
+        },
+        "0913": {
+            "Soort": 0,
+            "Jaar": 2009,
+            "Locatie": 1
+        },
+        "1625": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 1
+        },
+        "1308": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 1
+        },
+        "1302": {
+            "Soort": 0,
+            "Jaar": 2013,
+            "Locatie": 1
+        },
+        "2101": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2102": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2103": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2104": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2105": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2106": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2107": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2108": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2109": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2110": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2111": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2112": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2113": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2114": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2115": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2116": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2117": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2118": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2119": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2120": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2121": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2122": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2123": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2124": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2125": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2126": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2127": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2128": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2129": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2130": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2131": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2132": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2133": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2134": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "2135": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 2
+        },
+        "1428": {
+            "Soort": 0,
+            "Jaar": 2014,
+            "Locatie": 0
+        },
+        "2136": {
+            "Soort": 0,
+            "Jaar": 2021,
+            "Locatie": 1
+        },
+        "2237": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2238": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2239": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2240": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2241": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2242": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2243": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 1
+        },
+        "2244": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 0
+        },
+        "2201": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 0
+        },
+        "2202": {
+            "Soort": 5,
+            "Jaar": 2022,
+            "Locatie": 0
+        },
+        "2301": {
+            "Soort": 0,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2302": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2303": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2304": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2305": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2306": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2307": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2308": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2309": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2310": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "2311": {
+            "Soort": 6,
+            "Jaar": 2023,
+            "Locatie": 1
+        },
+        "18092": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "18099": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 1
+        },
+        "73731": {
+            "Soort": 0,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "73732": {
+            "Soort": 0,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "00100": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 1
+        },
+        "00101": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 1
+        },
+        "2312": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "1061": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "DSW31": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "DSW32": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "DSW33": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "DSW34": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "2313": {
+            "Soort": 5,
+            "Jaar": 2023,
+            "Locatie": 0
+        },
+        "1121": {
+            "Soort": 0,
+            "Jaar": 2011,
+            "Locatie": 0
+        },
+        "2000": {
+            "Soort": 0,
+            "Jaar": 2020,
+            "Locatie": 0
+        },
+        "0600": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 2
+        },
+        "1818": {
+            "Soort": 0,
+            "Jaar": 2018,
+            "Locatie": 2
+        },
+        "0077": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 0
+        },
+        "0739": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 1
+        },
+        "00103": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 1
+        },
+        "00104": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 1
+        },
+        "00105": {
+            "Soort": 0,
+            "Jaar": 2010,
+            "Locatie": 1
+        },
+        "09151": {
+            "Soort": 0,
+            "Jaar": 2009,
+            "Locatie": 1
+        },
+        "1666": {
+            "Soort": 0,
+            "Jaar": 2016,
+            "Locatie": 2
+        }
+    },
+    "Telling": {
+        "0": {
+            "2024-05-19": {
+                "Datum": "2024-05-19",
+                "Locatie": 0,
+                "Ballen": []
+            }
+        },
+        "1": {
+            "2024-05-19": {
+                "Datum": "2024-05-19",
+                "Locatie": 1,
+                "Ballen": []
+            }
+        },
+        "2": {
+            "2024-05-19": {
+                "Datum": "2024-05-19",
+                "Locatie": 2,
+                "Ballen": []
+            }
+        }
+    }
+}
